@@ -1,3 +1,4 @@
-# Web Moderno com JavaScript 2020 COMPLETO + Projetos
+# Repositório - Web Moderno com JavaScript COMPLETO + Projetos
 
-Para mais informações acessar https://www.cod3r.com.br/courses/web-moderno
+#### Curso:
+<a href="https://www.udemy.com/course/curso-web"> Curso Web Moderno Completo com JavaScript + Projetos | Udemy </a>
